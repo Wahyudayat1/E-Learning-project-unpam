@@ -1,5 +1,5 @@
 import { Schema, model } from "dynamoose";
-
+//
 const transactionSchema = new Schema(
   {
     userId: {

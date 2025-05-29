@@ -1,5 +1,5 @@
 import { Schema, model } from "dynamoose";
-
+//
 const chapterProgressSchema = new Schema({
   chapterId: {
     type: String,

@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import Course from "../models/courseModel";
-
+//
 export const listCourses = async (
   req: Request,
   res: Response
